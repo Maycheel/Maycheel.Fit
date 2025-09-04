@@ -9,8 +9,8 @@ Este projeto apresenta informações, serviços e conquistas de Maycheel Evarist
 ## Funcionalidades
 
 - Perfil profissional
-- Galeria de resultados
-- Depoimentos de clientes
+- Metodologias
+- Objetivos
 - Contato para agendamento
 
 ## Tecnologias Utilizadas
